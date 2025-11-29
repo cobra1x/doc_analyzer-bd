@@ -1,2 +1,2 @@
 # doc_analyzer-bd
-legal doc ument analyzer backend
+legal document analyzer backend
